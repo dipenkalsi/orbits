@@ -69,7 +69,7 @@ function PostThread({ userId }: Props) {
         />
 
         <Button type='submit' className='bg-purple-800 w-1/3 mx-auto hover:bg-purple-900'>
-          Post Thread
+          Create Orbit
         </Button>
       </form>
     </Form>
